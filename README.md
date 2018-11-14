@@ -1,3 +1,3 @@
 # Goose
 
-you just got meme'd
+algorithm for youtube
