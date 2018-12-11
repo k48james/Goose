@@ -1,3 +1,0 @@
-# Goose
-
-algorithm for youtube
